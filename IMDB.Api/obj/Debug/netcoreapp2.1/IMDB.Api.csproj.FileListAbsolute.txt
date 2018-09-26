@@ -1,0 +1,13 @@
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/bin/Debug/netcoreapp2.1/IMDB.Api.deps.json
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/bin/Debug/netcoreapp2.1/IMDB.Api.runtimeconfig.json
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/bin/Debug/netcoreapp2.1/IMDB.Api.runtimeconfig.dev.json
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/bin/Debug/netcoreapp2.1/IMDB.Api.dll
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/bin/Debug/netcoreapp2.1/IMDB.Api.pdb
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/obj/Debug/netcoreapp2.1/IMDB.Api.csproj.CoreCompileInputs.cache
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/obj/Debug/netcoreapp2.1/IMDB.Api.RazorAssemblyInfo.cache
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/obj/Debug/netcoreapp2.1/IMDB.Api.RazorAssemblyInfo.cs
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/obj/Debug/netcoreapp2.1/IMDB.Api.AssemblyInfoInputs.cache
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/obj/Debug/netcoreapp2.1/IMDB.Api.AssemblyInfo.cs
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/obj/Debug/netcoreapp2.1/IMDB.Api.RazorTargetAssemblyInfo.cache
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/obj/Debug/netcoreapp2.1/IMDB.Api.dll
+/Users/Ese/Documents/personal/IMDB.Api/IMDB.Api/obj/Debug/netcoreapp2.1/IMDB.Api.pdb
