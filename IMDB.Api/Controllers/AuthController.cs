@@ -37,7 +37,6 @@ namespace IMDB.Api.Controllers
         {
             user.Password = _tokenService.HashPassword(user, user.Password);
             
-
             var entity = _mapper.Map<Entities.User>(user);
             _userService.Create(entity);
             var state = await _userService.Commit();
